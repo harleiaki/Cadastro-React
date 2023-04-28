@@ -13,9 +13,9 @@ const Stack = createStackNavigator();
 
 const screenOptions = {
   headerStyle: {
-    backgroundColor: '#F4511E'
+    backgroundColor: '#323232'
   },
-  headerTintColor: '#FFF',
+  headerTintColor: '#fff',
   headerTitleStyle: {
     fontWeight: 'bold'
   }
