@@ -3,7 +3,7 @@ export default [
         id: 1,
         name: 'J',
         email: 'j@email.com',
-        avatar: 'https://cdn.pixabay.com/photo/2016/02/19/15/46/labrador-retriever-1210559_1280.jpg'
+        avatar: 'https://pixabay.com/images/id-1388937.jpg'
     }, {
         id: 2,
         name: 'M',
