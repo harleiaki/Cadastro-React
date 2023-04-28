@@ -4,10 +4,10 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Button, Icon } from 'react-native-elements';
 
-import { UsersProvider } from './context/usersContext';
+import { UsersProvider } from './src/context/usersContext';
 
-import UserList from './views/UserList';
-import UserForm from './views/UserForm';
+import UserList from './src/views/UserList';
+import UserForm from './src/views/UserForm';
 
 const Stack = createStackNavigator();
 
